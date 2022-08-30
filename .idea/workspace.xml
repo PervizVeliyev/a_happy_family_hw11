@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bd00eac-0f5f-4bc5-aaa0-96520f6d708f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionFamilyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DomesticCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FamilyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FamilyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FamilyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HumanCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDomesticCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RoboCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Species.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FamilyServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FamilyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HumanEqualsHashCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FamilyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FamilyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +44,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -79,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="JUnit.FamilyTest">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="a_happy_family_hw11" />
@@ -122,8 +99,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FamilyServiceTest" />
         <item itemvalue="JUnit.FamilyTest" />
+        <item itemvalue="JUnit.FamilyServiceTest" />
         <item itemvalue="JUnit.HumanEqualsHashCodeTest" />
       </list>
     </recent_temporary>
@@ -137,7 +114,10 @@
       <option name="presentableId" value="Default" />
       <updated>1661175330256</updated>
       <workItem from="1661175331857" duration="2207000" />
-      <workItem from="1661245936435" duration="1154000" />
+      <workItem from="1661245936435" duration="1869000" />
+      <workItem from="1661329495607" duration="64000" />
+      <workItem from="1661334799465" duration="1659000" />
+      <workItem from="1661842137360" duration="387000" />
     </task>
     <servers />
   </component>
